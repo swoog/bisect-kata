@@ -1,3 +1,3 @@
-echo 1251
+echo 1252
 echo True
 exit 0
