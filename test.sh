@@ -1,3 +1,3 @@
-echo 1728
+echo 1729
 echo False
 exit 1
