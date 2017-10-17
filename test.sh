@@ -1,3 +1,3 @@
-echo 705
+echo 706
 echo True
 exit 0
