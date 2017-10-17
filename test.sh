@@ -1,3 +1,3 @@
-echo 5
+echo 6
 echo True
 exit 0
