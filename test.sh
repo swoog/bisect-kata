@@ -1,3 +1,3 @@
-echo 255
+echo 256
 echo True
 exit 0
