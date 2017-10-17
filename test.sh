@@ -1,3 +1,3 @@
-echo 1391
-echo True
-exit 0
+echo 1392
+echo False
+exit 1
